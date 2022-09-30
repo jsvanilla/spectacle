@@ -1,5 +1,19 @@
 # Changelog
 
+## 9.7.0
+
+### Minor Changes
+
+- provide better error messages when useSteps or stepper components are used in the wrong context ([#1240](https://github.com/FormidableLabs/spectacle/pull/1240))
+
+- feat: Add Image Slide Layouts: Vertical, Horizontal, ThreeUp, Fullbleed. ([#1221](https://github.com/FormidableLabs/spectacle/pull/1221))
+
+### Patch Changes
+
+- autoPlayLoop now works as intended ([#1239](https://github.com/FormidableLabs/spectacle/pull/1239))
+
+- prevent theme.backdropStyle styles for background from being overridden ([#1231](https://github.com/FormidableLabs/spectacle/pull/1231))
+
 ## 9.6.0
 
 ### Minor Changes
